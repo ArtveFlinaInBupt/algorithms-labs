@@ -1,10 +1,10 @@
-# Algorithm-labs
+# algorithms-labs
 
 这是北京邮电大学计算机科学与技术专业 2021 级大三上（2023–2024 学年度秋季学期）《算法设计与分析》课程小作业（上机实验）。注意：这门课每个老师布置的小作业不同。
 
 文件结构和原始提交的毫无关系，所以和报告对不上。其中包含了作业提供的数据，但没有包含作业题目。
 
-实验数据并非本人生产，若有版权问题请联系我从仓库中删除。If there is any copyright issue concerning the data, please contact me to get them removed from the repository.
+实验数据并非本人生产，若有版权问题请联系我从仓库中删除。If there is any copyright issue concerning the data, please contact me to get them removed from this repository.
 
 | 章节                           | 项目名 | 选择的题目                     | 其他备选的题目<sup>（与本仓库无关）</sup> |
 | ------------------------------ | ------ | ------------------------------ | ----------------------------------------- |
